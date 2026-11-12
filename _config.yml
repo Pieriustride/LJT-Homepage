@@ -165,20 +165,24 @@ exclude:
   - assets/js/_main.js
   - assets/js/plugins
   - assets/js/vendor
+  - AGENTS.md
   - CHANGELOG
   - Capfile
   - config
   - Dockerfile
+  - docker-compose.yaml
   - Gemfile
   - Gruntfile.js
   - gulpfile.js
   - LICENSE
   - local
   - log
+  - markdown_generator
   - node_modules
   - package.json*
   - Rakefile
   - README
+  - scripts
   - tmp
   - vendor
 keep_files:
