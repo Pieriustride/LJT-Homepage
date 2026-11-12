@@ -1,18 +1,16 @@
 # Authors
+#
+# Page-level author profiles. The default sidebar author for the whole site is
+# the `author` mapping in _config.yml. The record below mirrors that
+# information and contains only details recorded in memory.
 
-Name Name:
-  name        : "Name Name"
-  uri         : "https://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
-
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+juntengliu:
+  name         : "Junteng Liu"
+  uri          : # URL
+  email        : "jliugi@connect.ust.hk"
+  bio          : "First-year PhD candidate in the HKUST NLP Group at the Hong Kong University of Science and Technology. Research focuses on natural language processing and machine learning, including LLM reasoning and reinforcement learning, hallucination in vision-language models (VLMs), and LLM truthfulness and interpretability."
+  avatar       : "https://github.com/Vicent0205.png"
+  employer     : "Hong Kong University of Science and Technology (HKUST NLP Group)"
+  github       : "Vicent0205"
+  googlescholar: "https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate"
+  twitter      : "junteng88716710"
